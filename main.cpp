@@ -2,9 +2,7 @@
 //  main.cpp
 //  rock_paper_scissors
 //
-//  Created by Yetunde Sola-Adebayo on 10/3/16.
-//  Copyright © 2016 Yetunde Sola-Adebayo. All rights reserved.
-//
+//  Created by Yetunde 
 
 #include <iostream>
 #include <stdlib.h>
