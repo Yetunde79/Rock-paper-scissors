@@ -14,8 +14,8 @@ int main(int argc, const char * argv[]) {
     
     cout<<"Do you want to play, answer Y or N"<<endl;
     cin>>answer;
-    int C;
-    int U;
+    int C =0;
+    int U = 0;
     
     while(answer=="Y")
     {
